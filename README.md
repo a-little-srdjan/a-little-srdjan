@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @a-little-srdjan
-- 👀 I’m interested in distributed streaming systems, information retrieval, runtime verification, 
+👋 Hi, I’m @a-little-srdjan
+
+👀 I’m interested in distributed streaming systems, information retrieval, runtime verification, 
 formal security models, non-monotonic AI, graph databases, and applications of ML to graph analytics. 
 
 In short:
