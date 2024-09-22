@@ -5,11 +5,11 @@ formal security models, non-monotonic AI, graph databases, and applications of M
 
 In short:
 
-**2021-**, Director, _PwC (Products and Technology)_
+**2021-**, Director of Cloud Engineering and Analytics, _PwC (Products and Technology)_
 
 **2015-2020**, co-founder and CTO, _SignalFrame (acquired by PwC)_
 
-**2019-**, Machine Learning Advisor, _Futurae.com_
+**2019-2023**, Machine Learning Advisor, _Futurae.com_
 
 **2019**, Datalake and Analytics Advisor, _ATBank/Fibr Netherlands_
 
