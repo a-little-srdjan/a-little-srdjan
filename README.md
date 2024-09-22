@@ -1,7 +1,7 @@
 👋 Hi, I’m @a-little-srdjan
 
-👀 I’m interested in distributed streaming systems, information retrieval, runtime verification, 
-formal security models, non-monotonic AI, graph databases, and applications of ML to graph analytics. 
+👀 I’m a computer scientist with a background in distributed streaming systems, graph analytics, and non-monotonic AI. In the past few years, I have focused
+on building Realiable Computer Systems and more recently on building relaible systems on top of LLM-powered modules.
 
 In short:
 
@@ -19,4 +19,4 @@ In short:
 
 In more detail:
 
-# https://a-little-srdjan.github.io
+### https://a-little-srdjan.github.io
