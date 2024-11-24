@@ -1,6 +1,6 @@
 👋 Hi, I’m @a-little-srdjan
 
-👀 I’m a computer scientist with a background in distributed streaming systems, graph analytics, and non-monotonic AI. In the past few years, I have focused
+👀 I’m a computer scientist with a background in distributed streaming systems, graph analytics, and symbolic and DL AI. In the past few years, I have focused
 on building Realiable Computer Systems and more recently on building relaible systems on top of LLM-powered modules.
 
 In short:
