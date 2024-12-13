@@ -13,5 +13,4 @@ In short:
 - **2012-2015**, Senior Researcher, _ETH Zurich_
 - **2008-2012**, Phd (Security and applied AI), _Imperial College London_
 
-In more detail:
-### https://a-little-srdjan.github.io
+In more depth: # https://a-little-srdjan.github.io #
