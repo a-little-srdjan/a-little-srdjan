@@ -5,7 +5,6 @@ on building engineering team and building realiable distributed ML systems. Most
 based on open-source LLMs.
 
 In short:
-
 - **2021-**, Director of Cloud Engineering and Analytics, _PwC (Products and Technology)_
 - **2015-2020**, co-founder and CTO, _SignalFrame (acquired by PwC)_
 - **2019-2021**, Machine Learning Advisor, _Futurae.com_
@@ -13,4 +12,4 @@ In short:
 - **2012-2015**, Senior Researcher, _ETH Zurich_
 - **2008-2012**, Phd (Security and applied AI), _Imperial College London_
 
-In more depth: # https://a-little-srdjan.github.io #
+In more depth: https://a-little-srdjan.github.io
